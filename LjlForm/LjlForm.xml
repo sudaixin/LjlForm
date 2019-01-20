@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Items>
+  <Item Id="53d85d195ada4708bb2061ac30aa201c" Name="CHQZ-189" Color="卡其" Price="50" />
+  <Item Id="7bc1da95a52e43d8833dd8bab3385e1f" Name="CHQZ-190" Color="浅灰" Price="50" />
+  <Item Id="8cf3dfa4e0db415aaad40e1626289fdc" Name="CHQZ-191" Color="墨绿" Price="50" />
+  <Item Id="5ce6ab2553a4404f8cfcdd1c33df6b5e" Name="CH格子" Color="驼色" Price="320" />
+  <Item Id="b2570795c7714058b612f3a242f25262" Name="DHQZ-192" Color="深灰" Price="50" />
+  <Item Id="d3a549d1a978471597d206a29e41d6b7" Name="CH格子" Color="墨绿" Price="320" />
+  <Item Id="478b7280003d4e9ba267d66ea0b192ff" Name="CHYR 089" Color="浅蓝" Price="120" />
+  <Item Id="62035129f87b4d7d9440617b866bfa7e" Name="CHYR 090" Color="深蓝" Price="120" />
+  <Item Id="7b4d7d9440617b866bfa7e62035129f8" Name="CHYR 091" Color="深红" Price="120" />
+</Items>
